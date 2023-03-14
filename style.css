@@ -1,0 +1,36 @@
+.rounded-circle {
+    border-radius: 50% !important;
+    width: 50px;
+}
+
+
+.no-border {
+    border: none;
+    width: 156px;
+
+}
+
+#logo {
+    position: relative;
+    left: 100px;
+}
+
+.input-gender {
+    width: 33px;
+    border-radius: 15px;
+    background-color: white;
+    border: none;
+
+
+}
+
+#title {
+    position: relative;
+    left: 155px;
+}
+
+.btn {
+    position: absolute;
+    left: 575px;
+    bottom: 105px;
+}
